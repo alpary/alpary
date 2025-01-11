@@ -1,3 +1,5 @@
+### 🖼 Cover Image:
+![Cover Image](https://drive.google.com/uc?export=view&id=1Dx8LkBHP9DcVHmnQ2mtVelOELHifdwtq)
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250">
 
 <h3 align="center">
@@ -54,4 +56,8 @@
 
 ---
 
-> "Creativity is seeing what everyone else has seen, and thinking what no one else has thought." – Unknown
+> "لا يستطاع العلم براحة الجسد." – يحي بن كثير
+
+---
+
+
